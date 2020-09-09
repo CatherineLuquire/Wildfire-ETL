@@ -17,12 +17,12 @@ SELECT * FROM year_id;
 -- Create, Import, and Show table of fema_disaster 
 CREATE TABLE fema_disaster(
 	id INT NOT NULL,
-	declaration_date Date NOT NULL,
+	declaration_date VARCHAR(15) NOT NULL,
 	state VARCHAR(5) NOT NULL,
 	county VARCHAR(200) NULL,
-	start_date Date NULL,
-	end_date Date NULL,
-	close_date Date NULL,
+	start_date VARCHAR(15) NULL,
+	end_date VARCHAR(15) NULL,
+	close_date VARCHAR(15) NULL,
 	year Int NOT NULL,
 	FOREIGN KEY(year) REFERENCES year_id(year)
 );
