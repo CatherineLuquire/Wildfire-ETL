@@ -5,9 +5,9 @@ Creating Database for Wildfire Economic Impact
 ETL Project Proposal
 
 Team: 
-Yukie
+Yukie Kajita
 John Falcone
-Katy
+Katy Luquire
 
 The Ask:
 We are looking at the economic impact of natural disasters with a focus on wildfires. Which state has more disasters and what was the economic impact? How has the economic impact of wildfires changed since 1953? What role does location play in economic impact?
