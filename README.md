@@ -17,10 +17,10 @@ Creating Database for Wildfire Economic Impact
 We are looking at the economic impact of natural disasters with a focus on wildfires. Which state has more disasters and what was the economic impact? How has the economic impact of wildfires changed since 1953? What role does location play in economic impact?
 
 ## Data Sources
-“Federal Emergencies and Disasters, 1953-Present
+1. “Federal Emergencies and Disasters, 1953-Present.
 Has the number of emergencies declared by the president risen over time?”
 https://www.kaggle.com/fema/federal-disasters
-“Natural disaster data
+2. “Natural disaster data.
 Occurrence and economic impact”
 https://www.kaggle.com/dataenergy/natural-disaster-data?select=number-of-natural-disaster-events.csv
 
