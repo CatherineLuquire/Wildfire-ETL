@@ -1,4 +1,4 @@
-# ETL-Project
+# Wildfire ETL
 
 Creating Database for Wildfire Economic Impact
 
