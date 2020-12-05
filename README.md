@@ -52,7 +52,7 @@ Example of data merging. Merged economic data with number of wildfires to create
 
 Load: We creating table schemata and related the databases to each other in SQL and stored the data in Postgres.
 Our database is a relational and structured database with Year as the Primary Key, visualized by this ERD.
-1. ![ERD](Wildfire_Database_ERD.png)
+1. ![ERD](images/Wildfire_Database_ERD.png)
 
 Created table schemata to load fema and economic diasaster data. 
 1. ![Economic schemata](images/eco_create_table.png)
